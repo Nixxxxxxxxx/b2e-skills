@@ -1,0 +1,12 @@
+{
+  "name": "b2e-skills",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test scripts/library.test.mjs"
+  }
+}
