@@ -1,0 +1,97 @@
+{
+  "format": "b2e-skills-catalog-v2",
+  "version": "2.0.0",
+  "language": "ru",
+  "categories": [
+    {
+      "id": "research",
+      "title": "Исследования",
+      "legacySlug": "run-product-research",
+      "skills": [
+        {
+          "slug": "b2e-plan-product-research",
+          "title": "Спланировать исследование",
+          "example": "Собери план исследования причин задержек согласования. Дашборд пока только идея."
+        },
+        {
+          "slug": "b2e-prepare-user-interviews",
+          "title": "Подготовить интервью",
+          "example": "Помоги подготовить интервью по конкретным случаям отказа от покупки."
+        },
+        {
+          "slug": "b2e-synthesize-research",
+          "title": "Разобрать результаты исследования",
+          "example": "Разбери заметки интервью: отдели наблюдения от объяснений и покажи противоречия."
+        }
+      ]
+    },
+    {
+      "id": "interfaces",
+      "title": "Проектирование интерфейсов",
+      "legacySlug": "design-product-interface",
+      "skills": [
+        {
+          "slug": "b2e-design-user-flows",
+          "title": "Спроектировать сценарий и состояния",
+          "example": "Спроектируй сценарий передачи заявки между ролями. Не начинай с макета."
+        },
+        {
+          "slug": "b2e-design-b2b-interfaces",
+          "title": "Проработать B2B-интерфейс",
+          "example": "Проработай массовое назначение заявок с разными правами и частичными ошибками."
+        }
+      ]
+    },
+    {
+      "id": "testing",
+      "title": "Тестирование",
+      "legacySlug": "run-usability-testing",
+      "skills": [
+        {
+          "slug": "b2e-plan-usability-tests",
+          "title": "Подготовить usability-тест",
+          "example": "Подготовь нейтральные задания и правила помощи для теста поиска поставщика."
+        },
+        {
+          "slug": "b2e-analyze-usability-tests",
+          "title": "Разобрать usability-тест",
+          "example": "По записям теста отдели самостоятельный успех от выполнения с подсказкой."
+        }
+      ]
+    },
+    {
+      "id": "visual",
+      "title": "Визуал и референсы",
+      "legacySlug": "elevate-visual-design-with-references",
+      "skills": [
+        {
+          "slug": "b2e-review-product-design",
+          "title": "Провести дизайн-ревью",
+          "example": "Проведи ревью экрана очереди по рабочему сценарию. Пока ничего не меняй."
+        },
+        {
+          "slug": "b2e-design-with-references",
+          "title": "Сформировать и применить направление",
+          "example": "Разбери мои референсы и предложи направление, сохранив существующую дизайн-систему."
+        }
+      ]
+    },
+    {
+      "id": "delivery",
+      "title": "Согласование и передача",
+      "legacySlug": "align-and-deliver-design",
+      "skills": [
+        {
+          "slug": "b2e-align-design-decisions",
+          "title": "Согласовать решение",
+          "example": "Помоги согласовать спорный scope с продуктом и разработкой; согласия пока нет."
+        },
+        {
+          "slug": "b2e-handoff-and-qa-design",
+          "title": "Подготовить handoff и design QA",
+          "example": "Подготовь передачу частичной отмены заказа с ограничениями API и проверками."
+        }
+      ]
+    }
+  ]
+}

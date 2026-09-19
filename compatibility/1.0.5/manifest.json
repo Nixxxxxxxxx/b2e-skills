@@ -1,0 +1,25 @@
+{
+  "version": "1.0.5",
+  "archives": [
+    {
+      "slug": "align-and-deliver-design",
+      "sha256": "a89a20811d987fcdc7d52a3a2d5b4f9e131b73fdc49c9e4165d9f03315406e51"
+    },
+    {
+      "slug": "design-product-interface",
+      "sha256": "95120b89efc8bec069d92b34e33417dea16f4268deeaa71a9b9c4418e96e313c"
+    },
+    {
+      "slug": "elevate-visual-design-with-references",
+      "sha256": "8af4ae745ba66fc1295323fd0e8dcef4b36a38dcbfc76d3e15f860829ff9a7b8"
+    },
+    {
+      "slug": "run-product-research",
+      "sha256": "5879413be42e91de6179f12af55dac57b2b7522095dc60719a5717219e8c554e"
+    },
+    {
+      "slug": "run-usability-testing",
+      "sha256": "3844eaaec00520fa297a89d7ee41e650e389f4430770d0f469bdc6b702e00fd4"
+    }
+  ]
+}
